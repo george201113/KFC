@@ -1,0 +1,9 @@
+D:\Visual Studio Projects\Upload\Upload\bin\Release\Upload.exe.config
+D:\Visual Studio Projects\Upload\Upload\bin\Release\Upload.exe
+D:\Visual Studio Projects\Upload\Upload\bin\Release\Upload.pdb
+D:\Visual Studio Projects\Upload\Upload\obj\Release\Upload.Form1.resources
+D:\Visual Studio Projects\Upload\Upload\obj\Release\Upload.Properties.Resources.resources
+D:\Visual Studio Projects\Upload\Upload\obj\Release\Upload.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\Upload\Upload\obj\Release\Upload.exe
+D:\Visual Studio Projects\Upload\Upload\obj\Release\Upload.pdb
+D:\Visual Studio Projects\Upload\Upload\obj\Release\Upload.csprojResolveAssemblyReference.cache
