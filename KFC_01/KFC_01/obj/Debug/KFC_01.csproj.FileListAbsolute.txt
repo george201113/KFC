@@ -12,3 +12,32 @@ D:\Visual Studio Projects\KFC_01\KFC_01\obj\Debug\KFC_01.Form3.resources
 D:\Visual Studio Projects\KFC_01\KFC_01\obj\Debug\KFC_01.Form4.resources
 D:\Visual Studio Projects\KFC_01\KFC_01\obj\Debug\KFC_01.Form5.resources
 D:\Visual Studio Projects\KFC_01\KFC_01\obj\Debug\KFC_01.Form6.resources
+C:\Users\gregg\Desktop\New folder\KFC-master\KFC_01\KFC_01\bin\Debug\KFC_01.exe.config
+C:\Users\gregg\Desktop\New folder\KFC-master\KFC_01\KFC_01\obj\Debug\KFC_01.exe
+C:\Users\gregg\Desktop\New folder\KFC-master\KFC_01\KFC_01\obj\Debug\KFC_01.pdb
+C:\Users\gregg\Desktop\New folder\KFC-master\KFC_01\KFC_01\bin\Debug\KFC_01.exe
+C:\Users\gregg\Desktop\New folder\KFC-master\KFC_01\KFC_01\bin\Debug\KFC_01.pdb
+C:\Users\gregg\Desktop\New folder\KFC-master\KFC_01\KFC_01\obj\Debug\KFC_01.csprojResolveAssemblyReference.cache
+C:\Users\gregg\Desktop\New folder\KFC-master\KFC_01\KFC_01\obj\Debug\KFC_01.Form1.resources
+C:\Users\gregg\Desktop\New folder\KFC-master\KFC_01\KFC_01\obj\Debug\KFC_01.Form2.resources
+C:\Users\gregg\Desktop\New folder\KFC-master\KFC_01\KFC_01\obj\Debug\KFC_01.Form3.resources
+C:\Users\gregg\Desktop\New folder\KFC-master\KFC_01\KFC_01\obj\Debug\KFC_01.Form4.resources
+C:\Users\gregg\Desktop\New folder\KFC-master\KFC_01\KFC_01\obj\Debug\KFC_01.Form5.resources
+C:\Users\gregg\Desktop\New folder\KFC-master\KFC_01\KFC_01\obj\Debug\KFC_01.Form6.resources
+C:\Users\gregg\Desktop\New folder\KFC-master\KFC_01\KFC_01\obj\Debug\KFC_01.Properties.Resources.resources
+C:\Users\gregg\Desktop\New folder\KFC-master\KFC_01\KFC_01\obj\Debug\KFC_01.csproj.GenerateResource.Cache
+C:\Users\gregg\Desktop\KFC\KFC_01\KFC_01\bin\Debug\KFC_01.exe.config
+C:\Users\gregg\Desktop\KFC\KFC_01\KFC_01\obj\Debug\KFC_01.exe
+C:\Users\gregg\Desktop\KFC\KFC_01\KFC_01\obj\Debug\KFC_01.pdb
+C:\Users\gregg\Desktop\KFC\KFC_01\KFC_01\bin\Debug\KFC_01.exe
+C:\Users\gregg\Desktop\KFC\KFC_01\KFC_01\bin\Debug\KFC_01.pdb
+C:\Users\gregg\Desktop\KFC\KFC_01\KFC_01\obj\Debug\KFC_01.csprojResolveAssemblyReference.cache
+C:\Users\gregg\Desktop\KFC\KFC_01\KFC_01\obj\Debug\KFC_01.Form1.resources
+C:\Users\gregg\Desktop\KFC\KFC_01\KFC_01\obj\Debug\KFC_01.Form2.resources
+C:\Users\gregg\Desktop\KFC\KFC_01\KFC_01\obj\Debug\KFC_01.Form3.resources
+C:\Users\gregg\Desktop\KFC\KFC_01\KFC_01\obj\Debug\KFC_01.Form4.resources
+C:\Users\gregg\Desktop\KFC\KFC_01\KFC_01\obj\Debug\KFC_01.Form5.resources
+C:\Users\gregg\Desktop\KFC\KFC_01\KFC_01\obj\Debug\KFC_01.Form6.resources
+C:\Users\gregg\Desktop\KFC\KFC_01\KFC_01\obj\Debug\KFC_01.Properties.Resources.resources
+C:\Users\gregg\Desktop\KFC\KFC_01\KFC_01\obj\Debug\KFC_01.csproj.GenerateResource.Cache
+C:\Users\gregg\Desktop\KFC\KFC_01\KFC_01\obj\Debug\KFC_01.Form7.resources
