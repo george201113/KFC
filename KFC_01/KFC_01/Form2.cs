@@ -18,7 +18,7 @@ namespace KFC_01
             this.WindowState = FormWindowState.Maximized;
 
 
-            using (SqlConnection connection = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\gregg\Documents\Data.mdf;Integrated Security=True;Connect Timeout=30"))
+            using (SqlConnection connection = new SqlConnection(@"Data Source = (LocalDB)\MSSQLLocalDB; AttachDbFilename = C:\Users\gregg\Desktop\KFC\Data.mdf; Integrated Security = True; Connect Timeout = 30"))
             {
                 connection.Open();
                 SqlCommand command = new SqlCommand("SELECT name FROM Login WHERE password=" + Kod.bejelcode, connection);

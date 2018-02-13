@@ -123,7 +123,7 @@ namespace KFC_01
         private void button11_Click(object sender, EventArgs e)
         {
 
-            SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\gregg\Documents\Data.mdf;Integrated Security=True;Connect Timeout=30");
+            SqlConnection con = new SqlConnection(@"Data Source = (LocalDB)\MSSQLLocalDB; AttachDbFilename = C:\Users\gregg\Desktop\KFC\Data.mdf; Integrated Security = True; Connect Timeout = 30");
             SqlDataReader dr;
             SqlDataReader dr2;
 
@@ -165,6 +165,11 @@ namespace KFC_01
                 Kod.code1 = "";
                 button11.Hide();
             }
+
+        }
+
+        private void button13_Click(object sender, EventArgs e)
+        {
 
         }
     }
