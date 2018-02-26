@@ -15,7 +15,6 @@ namespace KFC_01
         public void Form1_Load(object sender, EventArgs e)
         {
 
-            this.TopMost = true;
             this.FormBorderStyle = FormBorderStyle.None;
             this.WindowState = FormWindowState.Maximized;
 
@@ -123,7 +122,7 @@ namespace KFC_01
         private void button11_Click(object sender, EventArgs e)
         {
 
-            SqlConnection con = new SqlConnection(@"Data Source = (LocalDB)\MSSQLLocalDB; AttachDbFilename = C:\Users\gregg\Desktop\KFC\Data.mdf; Integrated Security = True; Connect Timeout = 30");
+            SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename= 'D:\Visual Studio Projects\KFC-master\Data.mdf' ;Integrated Security=True;Connect Timeout=30");
             SqlDataReader dr;
             SqlDataReader dr2;
 

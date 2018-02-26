@@ -18,7 +18,7 @@ namespace KFC_01
             this.WindowState = FormWindowState.Maximized;
 
 
-            using (SqlConnection connection = new SqlConnection(@"Data Source = (LocalDB)\MSSQLLocalDB; AttachDbFilename = C:\Users\gregg\Desktop\KFC\Data.mdf; Integrated Security = True; Connect Timeout = 30"))
+            using (SqlConnection connection = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename= 'D:\Visual Studio Projects\KFC-master\Data.mdf' ;Integrated Security=True;Connect Timeout=30"))
             {
                 connection.Open();
                 SqlCommand command = new SqlCommand("SELECT name FROM Login WHERE password=" + Kod.bejelcode, connection);
@@ -53,6 +53,20 @@ namespace KFC_01
         {
             Form6 frm6 = new Form6();
             frm6.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            Form7 frm7 = new Form7();
+            frm7.Show();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            Form7 frm7 = new Form7();
+            frm7.Show();
         }
     }
 }
