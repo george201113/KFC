@@ -20,7 +20,7 @@ namespace KFC_01
 
             string query = "SELECT name, clockin FROM LoggedIn";
 
-            SqlConnection con = new SqlConnection(@"Data Source = (LocalDB)\MSSQLLocalDB; AttachDbFilename = C:\Users\gregg\Desktop\KFC\Data.mdf; Integrated Security = True; Connect Timeout = 30");
+            SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename= 'D:\Visual Studio Projects\KFC-master\Data.mdf' ;Integrated Security=True;Connect Timeout=30");
 
             DataTable dt = new DataTable();
             SqlDataAdapter da = new SqlDataAdapter(query, con);

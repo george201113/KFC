@@ -25,7 +25,7 @@ namespace KFC_01
             string goodtime = currentTime.Hour + ":" + currentTime.Minute;
 
 
-            SqlConnection con = new SqlConnection(@"Data Source = (LocalDB)\MSSQLLocalDB; AttachDbFilename = C:\Users\gregg\Desktop\KFC\Data.mdf; Integrated Security = True; Connect Timeout = 30");
+            SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename= 'D:\Visual Studio Projects\KFC-master\Data.mdf' ;Integrated Security=True;Connect Timeout=30");
             SqlDataReader dr;
             string delete = "DELETE FROM manager";
             string manager = "INSERT INTO manager (manager, password) SELECT manager,password FROM Login WHERE password =" + Kod.login22;
